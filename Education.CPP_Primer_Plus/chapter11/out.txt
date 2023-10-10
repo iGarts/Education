@@ -1,0 +1,15 @@
+After 7839 steps, the subject has the followiпg location : 
+(х , у) = ( 37.564 , -33.335 ) 
+ оr 
+ (m , a) = ( 50.2223 , -41.5864 ) 
+Average outward distance per step = 0.00640672
+After 4414 steps, the subject has the followiпg location : 
+(х , у) = ( -40.5838 , 44.853 ) 
+ оr 
+ (m , a) = ( 60.4884 , 132.139 ) 
+Average outward distance per step = 0.0137038
+After 1145 steps, the subject has the followiпg location : 
+(х , у) = ( 41.2947 , -56.5509 ) 
+ оr 
+ (m , a) = ( 70.0233 , -53.8623 ) 
+Average outward distance per step = 0.0611557
